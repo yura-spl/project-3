@@ -1,0 +1,50 @@
+body{
+    color:rgba(00, 00, 00, 0.8);
+    background-color:fff;
+}
+
+
+/* шапка навигация */
+
+.logo{
+    color:#2196F3;
+}
+.logo :hover
+.logo :focus{
+    color: #000;
+}
+.logo {
+    text-decoration: none;
+}
+
+
+/*список навигации*/
+
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+
+.site-nav .link{
+color: #2196F3;;
+}
+
+.site-nav :hover
+{
+    color: #000;
+}
+
+
+/*список ауторизации*/
+
+.auth-nav .link{
+  color:#2196F3;
+}
+.auth-nav :hover{
+color: #000000
+}
+
+
+
